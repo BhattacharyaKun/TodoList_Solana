@@ -8,7 +8,7 @@ todo_list_anchor = "5LKhTzPmPJfiunQ6NAimso7sZhG3kiLw8jx9xzKUAh68"
 url = "https://api.apr.dev"
 
 [provider]
-cluster = "Localnet"
+cluster = "localnet"
 wallet = "/home/home/.config/solana/id.json"
 
 [scripts]
